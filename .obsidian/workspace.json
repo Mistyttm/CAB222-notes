@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "9aae3e6a927b98eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f551eae2fc262b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3718a6fb7955dd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week-1/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7528924fd8770efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4d679463ff5030b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8851a895dd6029a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a085af535d08ce5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ac82e8469ff043a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9106fd730afce16",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc0c0071ec559b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a638e1149c59286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week-1/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6d8230f596ea94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "week-1/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8840aa64d8bf78a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0efa47a27e826d69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week-1/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3718a6fb7955dd98",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled Document",
+    "week-1/README.md",
+    "week-1",
+    "CAB222-notes/week-1/README.md",
+    "CAB222-notes/week-1",
+    "CAB222-notes/README.md",
+    "CAB222-notes"
+  ]
+}
